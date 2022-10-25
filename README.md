@@ -65,6 +65,6 @@ Our intercept is  1.2374917541176456 and our slope for diversity index dependenc
 
 This shows that there is a significant dependence of diversity index on Covid-19 cases and slight dependence on percentage of population of children. But the effect on Covid-19 cases due to interaction of both the factors is enhanced. The interaction plot below depicts the same.
 
-![Figure_8_interaction_plot]()
+![Figure_8_interaction_plot](https://github.com/sht150/CHE-Math-Project-updated/blob/main/Figure%208_interaction%20plot.png)
 
 These findings indicate that there was a strong dependence of Covid-19 cases on the diversity index and interaction of diversity index and population of children in the New England region during the holiday season of 2020 as discrete variab;es. To generalize this data, further studies need to be done to incorporate more data points over a larger range. For example, this can be done by taking city-wise data instead of county-wise data. The current data is clustered and a linear regression model does not accurately capture the trends of the data. More accuarte analysis can be obtained by selecting a non-linear model or linearilzing the data before applying linear regression.
