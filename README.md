@@ -19,7 +19,7 @@ The raw data for Covid-19 cases was collected from New York Times. The data for 
 ![Figure_6](https://github.com/sht150/CHE-Math-Project-updated/blob/main/Figure%206.png)
 ![Figure_7](https://github.com/sht150/CHE-Math-Project-updated/blob/main/Figure%207.png)
 
-The data obtained is for a narrow range of factors and is clustered. A single line cannot effectively capture this these trends due to high non-linearity and uneven distribution. Thus, for all analyses, the data was dicretized into two groups based on the median of factors to study the relative effect of factors on Covid-19 cases as high or low.
+The data obtained is for a narrow range of factors and is clustered. A single line cannot effectively capture this these trends due to high non-linearity and uneven distribution. Thus, for all analyses, the data was discretized into two groups based on the median of factors to study the relative effect of factors on Covid-19 cases as high or low.
 
 
 The Percentage of population of children is divided into two group based on higher or lower than 18%
