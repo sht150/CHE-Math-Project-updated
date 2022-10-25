@@ -41,7 +41,9 @@ stats.mannwhitneyu(data_more25["% Population with Covid 19 cases"], data_less25[
 MannwhitneyuResult(statistic=94.0, pvalue=0.9999999942675446)
 
 3. Using linear regression to determine how diversity index and population percentage of children in the counties of the New England region during the holiday season of the year 2020 and their interaction is associated with percentage Covid-19 cases. The factors are treated as discrete variables.
+
 Group 0 indicates population of children < 18% / Diversity Index < 25%
+
 Group 1 indicates population of children > 18% / Diversity Index > 25%
 
 ```
