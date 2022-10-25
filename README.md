@@ -9,5 +9,5 @@
 
 3. Were Covid-19 cases higher in counties with more than 18% population of children and diversity index greater than 25%?
 
-![Figure_1](Figure 1.png)
+![Figure_1](https://github.com/sht150/CHE-Math-Project-updated/blob/main/Figure%201.png)
 ![Figure 1](https://user-images.githubusercontent.com/112515373/197822900-f76f0468-e13a-46d4-b4cd-090a8fa47a5c.png)
